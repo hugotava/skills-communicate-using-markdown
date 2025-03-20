@@ -6,3 +6,8 @@
 ###### My first h6 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+let helloMsg = "Hello Github";
+alert(helloMsg);
+```
